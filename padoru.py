@@ -241,6 +241,7 @@ def update_canvas():
 
 
 def quit():
+    root.destroy()
     exit()
 
 
