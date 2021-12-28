@@ -1,0 +1,6 @@
+dist/
+frames/
+project.pdn
+notes.txt
+.idea/
+__pycache__/
